@@ -1,1 +1,1 @@
-# Project for Management and Marketing class
+# A website made for Management and Marketing class
